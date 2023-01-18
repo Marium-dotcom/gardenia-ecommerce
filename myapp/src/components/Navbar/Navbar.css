@@ -1,0 +1,11 @@
+.navbarColor{
+background-color: #afcdc2 ; 
+}
+
+.nav-link:hover{
+    color:#CB2314 !important;  
+}
+
+.tokenHover:hover{
+color:#CB2314 ;
+}
